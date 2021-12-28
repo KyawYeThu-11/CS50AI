@@ -1,6 +1,6 @@
 # CS50's Introduction to Artificial Intelligence with Python
 
-This repository contains 12 code directories (excluding this _master_ branch), each of which represents a problem set of the course, [_CS50's Introduction to Artificial Intelligence with Python_](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
+This repository contains 12 code directories, each of which represents a problem set of the course, [_CS50's Introduction to Artificial Intelligence with Python_](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python).
 
 Week 0 (Search)
 - degrees
